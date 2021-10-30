@@ -13,4 +13,4 @@
 
 ## Download
 
-You can download bath scripts [by clicking here.](https://github.com/OLIMINATOR/batch-skripty/releases/)
+You can download batch scripts [by clicking here.](https://github.com/OLIMINATOR/batch-skripty/releases/)
