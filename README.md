@@ -1,16 +1,16 @@
-<div align="center"><h1>Batch Skripty</h1>
+<div align="center"><h1>Batch Scripts</h1>
  <img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" height="30"> &nbsp;
   <img src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg" height="30">
 
 ---
 
-**Batch Skripty sú zábavné skripty pre Microsoft Windows počítače.**
+**Bath scripts ar funny scripts for windows computers.**
 
-## Dôležité informácie
+## Important Informiations
 
-<h3>⚠️ Je možné že niektoré scripty sú potenciálne nebezpečné, za potenciálne škody nezodpovdeám.</h3>
+<h3>⚠️ Some scripts can damage your work or conpuer!</h3>
  </div>
 
-## Stiahnutie
+## Download
 
-Batch súbory/skripty je možné stiahnuť [kliknutím sem.](https://github.com/OLIMINATOR/batch-skripty/releases/)
+You can download bath scripts [by clicking here.](https://github.com/OLIMINATOR/batch-skripty/releases/)
