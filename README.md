@@ -4,7 +4,7 @@
 
 ---
 
-**Bath scripts ar funny scripts for windows computers.**
+**Bath scripts are funny scripts for windows computers.**
 
 ## Important Informiations
 
